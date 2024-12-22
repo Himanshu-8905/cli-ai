@@ -1,0 +1,4 @@
+// To run the Project
+
+npm run build
+node --no-warnings dist/cli.js
